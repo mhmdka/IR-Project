@@ -1,0 +1,10 @@
+tfidf and LM in our set of documents works almost the same but in general LM works better!
+
+tfidf: map  0.7473
+lm :   map    0.7445
+
+tfidf: avg_doc_prec  0.8336
+lm:    avg_doc_prec  0.8521
+
+tfidf: P10  0.4300
+lm:    P10  0.4600
