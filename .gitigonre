@@ -1,7 +1,7 @@
 #Folders
 .idea
-.target
-.src/test
+target
+src/test
 
 #Files
 *.iml
